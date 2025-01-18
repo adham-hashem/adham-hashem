@@ -19,7 +19,7 @@
 ---
 
 ## 🎯 **My Interactive Highlights**
-- **Interested in Collaboration?** Drop me an email: [adham@example.com](mailto:adhamhashem2025@gmail.com)
+- **Interested in Collaboration?** Drop me an email: [adhamhashem2025@gmail.com](mailto:adhamhashem2025@gmail.com)
 
 ---
 
