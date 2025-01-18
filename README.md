@@ -14,7 +14,7 @@
 
 ## 💡 **What You'll Find Here**
 1. **React and .NET Core:** Projects like [NoteMaster](https://github.com/adham-hashem/NoteMasterProject).
-2. **native PHP:** Project like [SchoolHub](https://github.com/adham-hashem/SchoolHub).
+2. **Native PHP:** Project like [SchoolHub](https://github.com/adham-hashem/SchoolHub).
 
 ---
 
@@ -23,4 +23,4 @@
 
 ---
 
-![Coding GIF](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+![Coding GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzhxdmI0cXZjZ2JnNjFreGV1dmpyZzl1Y3AwaW0weHBoMDJkYjZiNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tJDz8mPYyUJZ1Pg9fA/giphy.gif)
