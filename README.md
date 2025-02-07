@@ -1,8 +1,6 @@
 # Welcome to My GitHub! 🚀✨
 > *"Exploring the universe of code."* 🌌
 
-![Wave Animation](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
 ---
 
 ## 🌟 **Who Am I?**
