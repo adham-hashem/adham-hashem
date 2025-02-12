@@ -29,7 +29,6 @@
 
 ## 📊 **My GitHub Stats**
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adham-hashem&layout=compact)
-<br>
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adham-hashem)
 
 ---
