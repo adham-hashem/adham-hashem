@@ -30,9 +30,9 @@
 ## 📊 **My GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adham-hashem&layout=compact" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adham-hashem&layout=compact&hide_border=true" alt="Top Languages">
   <br>
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=adham-hashem" alt="GitHub Streak">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=adham-hashem&hide_border=true" alt="GitHub Streak">
 </div>
 
 ---
