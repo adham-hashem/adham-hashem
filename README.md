@@ -4,7 +4,7 @@
 ---
 
 ## 🌟 **Who Am I?**
-- 🧑‍💻 **Adham Hashem** - Full-stack Web Developer and Cybersecurity Researcher
+- 🧑‍💻 **Adham Hashem** - Full-stack Web Developer and Cybersecurity Researcher.
 - 🎓 Currently working on my **graduation project**.
   
 ---
