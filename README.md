@@ -15,25 +15,10 @@
 <div align="center">
 
   <a href="https://github.com/adham-hashem">
-    <img width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
-  </a>
-  <a href="https://github.com/adham-hashem">
-    <img width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET"/>
-  </a>
-  <a href="https://github.com/adham-hashem">
-    <img width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
-  </a>
-  <a href="https://github.com/adham-hashem">
     <img width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++"/>
   </a>
   <a href="https://github.com/adham-hashem">
-    <img width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-  </a>
-  <a href="https://github.com/adham-hashem">
-    <img width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
-  </a>
-  <a href="https://github.com/adham-hashem">
-    <img width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
+    <img width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
   </a>
   <a href="https://github.com/adham-hashem">
     <img width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
@@ -45,13 +30,28 @@
     <img width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap"/>
   </a>
   <a href="https://github.com/adham-hashem">
-    <img width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
+    <img width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  </a>
+  <a href="https://github.com/adham-hashem">
+    <img width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
+  </a>
+  <a href="https://github.com/adham-hashem">
+    <img width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React"/>
+  </a>
+  <a href="https://github.com/adham-hashem">
+    <img width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
+  </a>
+  <a href="https://github.com/adham-hashem">
+    <img width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" alt=".NET"/>
+  </a>
+  <a href="https://github.com/adham-hashem">
+    <img width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server"/>
   </a>
   <a href="https://github.com/adham-hashem">
     <img width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP"/>
   </a>
   <a href="https://github.com/adham-hashem">
-    <img width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server"/>
+    <img width="65px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
   </a>
 
 </div>
