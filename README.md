@@ -4,7 +4,7 @@
 ---
 
 ## 🌟 **Who Am I?**
-- 🧑‍💻 **Adham Hashem** — .NET Backend Developer and Aspiring Cybersecurity Researcher.
+- 🧑‍💻 **Adham Hashem** — .NET Backend Developer and Cybersecurity Student.
 - 🎓 Currently working on my **graduation project**: *AI-powered compiler simulation and optimization tool*.
 - 💡 Passionate about building secure systems, learning new technologies.
 
