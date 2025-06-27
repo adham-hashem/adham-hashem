@@ -11,7 +11,7 @@
 ---
 
 <h2 align="center">🌐 Portfolio</h2>
-Check out my personal portfolio: [Portfolio](adhamhashem.com)
+Check out my personal portfolio: [adhamhashem.com](https://adhamhashem.com)
 
 ---
 
